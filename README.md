@@ -3,6 +3,7 @@
 A different, new look at your GitHub Profile
 
 ![demo](https://raw.githubusercontent.com/bryanlou/octohub/master/static/og.png)
+![demo](https://raw.githubusercontent.com/bryanlou/octohub/master/static/og2.png)
 
 Built with:
 
